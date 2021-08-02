@@ -1,8 +1,6 @@
 # BombPartyBotJKLM
 Discord Mannnny#5377
 
-YouTube video of installing it (no troubleshooting) https://youtu.be/N5b6sALTN7g
-
 A simple bot for Bomb Party on https://www.jklm.fun
 
 Features include:
@@ -34,28 +32,6 @@ Press ```Next```
 And make sure ```Add Python to Environment Variables``` is selected. If it is not tick it and press ```Install``` if it is ticked further troubleshooting is required, DM me on discord Mannnny#5377 or open an issue.
 
 Here is a YouTube video for more help https://youtu.be/N5b6sALTN7g
-<h1>On line 17 change the path variable to the path that your code is located (add /web2 on the end) >>>IMPORTANT<<<</h1>
-
-Here is how to do that:
-![image](https://user-images.githubusercontent.com/38955706/127859142-f363944b-596e-4bf8-af3f-1e72e0018ad7.png)
-Find where the file is downloaded and click on the path at the top
-
-![image](https://user-images.githubusercontent.com/38955706/127859219-bcf45f8f-e857-4d45-8fc8-592fa64225df.png)
-
-This will highlight the text, copy it and paste it into the code
-
-![image](https://user-images.githubusercontent.com/38955706/127859322-0540be37-400e-486b-9b94-73e507319dde.png)
-
-Now simply swap all the backslashes for forward slashes
-
-![image](https://user-images.githubusercontent.com/38955706/127859421-3c2c1612-0813-4a41-a885-8a12598e0c05.png)
-
-And finally add /web2 on the end so the program can find the file
-
-![image](https://user-images.githubusercontent.com/38955706/127859545-352c2dfc-5ef2-4747-ae4a-8d0668b6b479.png)
-
-Now there shouldn't be any errors. MAKE SURE THE PATH HAS "" OR '' ON EITHER SIDE
-
 <h1>Using the bot:</h1>
 
 When the webpage opens simply join any game of Bomb Party and wait for the round to end, the bot should auto join in the next round and start playing!
