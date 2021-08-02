@@ -71,5 +71,24 @@ As well as this you can change how fast the random letters during a fail are typ
   
   ![image](https://user-images.githubusercontent.com/38955706/127862184-a798c682-ff15-463f-9284-833b565628b4.png)
 
+  <h1>Bug fixing:</h1>
+  
+If you run into an issue before the web page even opens make sure you have selenium installed, press Windows + R on your keyboard
+  
+  ![image](https://user-images.githubusercontent.com/38955706/127863482-327c45f0-7b74-4615-bf9b-61f733358e4a.png)
+  
+Type in CMD and press enter
+  
+  ![image](https://user-images.githubusercontent.com/38955706/127863567-f80eb960-240c-4a22-968f-df45f3fcffc8.png)
+  
+Run ```pip install selenium``` 
+  
+  ![image](https://user-images.githubusercontent.com/38955706/127863691-96eb5b92-3359-4157-91c6-7e78b55bc8fe.png)
 
+If selenium is not installed it should install it otherwise you'll get a message saying the requirements are satisfied. If selenium is installed and the issue is not covered here open an issue or DM me on discord Mannnny#5377
+  
+  <h3>Bugs with the bot</h3>
+  
+  I haven't discovered any bugs with the bot actually playing in a game other than sometimes against StockFish in the first round it will get it wrong but it fixes itself and enters a correct word. If you find any bugs open an issue or DM me on discord Mannnny#5377 and I will work on fixing them. If you have any suggestions or improvements for the bot again just DM me or open an issue.
 
+  
