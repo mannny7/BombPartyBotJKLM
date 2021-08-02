@@ -12,7 +12,7 @@ Features include:
 3. Human-like spelling mistakes
 4. Custom typing speed
 
-**Sorry if some code is poorly wrote I'm quite new to Python and only 13 :)**
+**Sorry if some code is poorly written I'm quite new to Python and only 13 :)**
 
 <h1>A guide to downloading, running and using:</h1>
 
