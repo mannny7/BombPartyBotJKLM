@@ -8,13 +8,13 @@ Features include:
 3. Human-like spelling mistakes
 4. Custom typing speed
 
-Sorry if some code is poorly wrote I'm quite new to Python and only 13 :)
+**Sorry if some code is poorly wrote I'm quite new to Python and only 13 :)**
 
 <h1>A guide to downloading, running and using:</h1>
 
 1. Download a zip of the code
 2. Extract the zip file
-3. Ensure you have Selenium Chrome Webdrivers installed, the application is already in there so it should be fine (DO NOT RUN chromedriver.exe IT DOES NOTHING)
+3. Ensure you have Selenium Chrome Webdrivers installed, the application is already in there so it should be fine **(DO NOT RUN chromedriver.exe IT DOES NOTHING)**
 4. If you have an errors along the lines of ```No module named keyboard``` run ```pip install (missing module)``` in command prompt. Obviously replace (missing module) with the module name. If you don't have pip installed run ```py -m ensurepip --upgrade``` if that is ```Not recognised as an internal or external command``` ensure you have python itself installed (https://www.python.org/downloads/) and if you do have python installed, install it anyway and follow the steps below:
 
 ![image](https://user-images.githubusercontent.com/38955706/127909526-92be09d7-61a2-4c2a-a1e7-99a2c34472a8.png)
