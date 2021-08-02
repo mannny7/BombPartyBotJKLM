@@ -1,5 +1,6 @@
 # BombPartyBotJKLM
 Discord Mannnny#5377
+
 YouTube video of installing it (no troubleshooting) https://youtu.be/N5b6sALTN7g
 
 A simple bot for Bomb Party on https://www.jklm.fun
