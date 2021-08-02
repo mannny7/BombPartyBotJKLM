@@ -13,6 +13,19 @@ Features include:
 1. Download a zip of the code
 2. Extract the zip file
 3. Ensure you have Selenium Chrome Webdrivers installed, the application is already in there so it should be fine
+4. If you have an errors along the lines of ```No module named keyboard``` run ```pip install (missing module)``` in command prompt. Obviously replace (missing module) with the module name. If you don't have pip installed run ```py -m ensurepip --upgrade``` if that is ```Not recognised as an internal or external command``` ensure you have python itself installed (https://www.python.org/downloads/) and if you do have python installed, install it anyway and follow the steps below:
+
+![image](https://user-images.githubusercontent.com/38955706/127909526-92be09d7-61a2-4c2a-a1e7-99a2c34472a8.png)
+
+Upon the installer running click on ```Customize installation``` 
+
+![image](https://user-images.githubusercontent.com/38955706/127909570-d6a4eccc-b90e-4813-8680-617e91382bb0.png)
+
+Press ```Next```
+
+![image](https://user-images.githubusercontent.com/38955706/127909596-95b8bbdd-3137-4c7c-bb67-0556a9d65e24.png)
+
+And make sure ```Add Python to Environment Variables``` is selected. If it is not tick it and press ```Install``` if it is ticked further troubleshooting is required, DM me on discord Mannnny#5377 or open an issue.
 
 Here is a YouTube video for more help https://youtu.be/N5b6sALTN7g
 <h1>On line 17 change the path variable to the path that your code is located (add /web2 on the end) >>>IMPORTANT<<<</h1>
