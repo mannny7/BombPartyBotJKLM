@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+import os
 import time
 import random
 import keyboard
@@ -13,9 +14,8 @@ import string
 driver = webdriver.Chrome("./chromedriver")
 driver.get("https://www.jklm.fun")
 
-# CHANGE TO YOUR PATH READ THE README.MD TO FIND OUT HOW
-path = "C:/Users/Manny/PycharmProjects/bombParty/web2"
-# CHANGE TO YOUR PATH READ THE README.MD TO FIND OUT HOW
+CURR_DIR = os.path.dirname(os.path.realpath(__file__))
+path = CURR_DIR + "\web2"
 
 wordlistone = open(path)
 stringone = wordlistone.read()
