@@ -24,6 +24,8 @@ Want to use your own Words List?
 Change line 19 from "\web2" to the file name
 Dont forget the file extension.
 For example "\Words.txt"
+
+MAKE SURE THE FILE IS IN THE SAME FOLDER AS THE CODE
 '''
 
 wordlistone = open(path)
