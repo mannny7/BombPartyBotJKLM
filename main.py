@@ -6,16 +6,25 @@ import random
 import keyboard
 import string
 
-# Party Bomb Bot by Msesjrl (Mannnny)
-# Discord: Mannnny#5377
-# Read the readme on GitHub it will fix most issues
-# Please change line 17
+''' 
+Party Bomb Bot by Msesjrl (Mannnny)
+Discord: Mannnny#5377
+Read the readme on GitHub it will fix most issues
+'''
 
 driver = webdriver.Chrome("./chromedriver")
 driver.get("https://www.jklm.fun")
 
 CURR_DIR = os.path.dirname(os.path.realpath(__file__))
 path = CURR_DIR + "\web2"
+
+'''
+Want to use your own Words List?
+
+Change line 19 from "\web2" to the file name
+Dont forget the file extension.
+For example "\Words.txt"
+'''
 
 wordlistone = open(path)
 stringone = wordlistone.read()
