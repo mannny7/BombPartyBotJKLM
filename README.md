@@ -88,4 +88,3 @@ If selenium is not installed it should install it otherwise you'll get a message
   
   I haven't discovered any bugs with the bot actually playing in a game other than sometimes against StockFish in the first round it will get it wrong but it fixes itself and enters a correct word. If you find any bugs open an issue or DM me on discord Mannnny#5377 and I will work on fixing them. If you have any suggestions or improvements for the bot again just DM me or open an issue.
 
-https://youtu.be/N5b6sALTN7g YouTube video for installing help
