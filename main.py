@@ -10,6 +10,7 @@ import string
 Party Bomb Bot by Msesjrl (Mannnny)
 Discord: Mannnny#5377
 Read the readme on GitHub it will fix most issues
+YouTube video for installing: https://youtu.be/IT-0yb12xG0
 '''
 
 driver = webdriver.Chrome("./chromedriver")
