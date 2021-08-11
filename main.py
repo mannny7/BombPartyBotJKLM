@@ -22,7 +22,7 @@ path = CURR_DIR + "\web2"
 '''
 Want to use your own Words List?
 
-Change line 19 from "\web2" to the file name
+Change line 20 from "\web2" to the file name
 Dont forget the file extension.
 For example "\Words.txt"
 
