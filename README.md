@@ -3,6 +3,8 @@ Discord Mannnny#5377
 
 A simple bot for Bomb Party on https://www.jklm.fun
 
+YouTube video for installing: https://youtu.be/IT-0yb12xG0
+
 Features include:
 
 1. Auto join games
