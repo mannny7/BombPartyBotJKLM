@@ -33,7 +33,7 @@ Press ```Next```
 
 And make sure ```Add Python to Environment Variables``` is selected. If it is not tick it and press ```Install``` if it is ticked further troubleshooting is required, DM me on discord Mannnny#5377 or open an issue.
 
-Here is a YouTube video for more help https://youtu.be/N5b6sALTN7g
+Here is a YouTube video for more help https://youtu.be/IT-0yb12xG0
 <h1>Using the bot:</h1>
 
 When the webpage opens simply join any game of Bomb Party and wait for the round to end, the bot should auto join in the next round and start playing!
