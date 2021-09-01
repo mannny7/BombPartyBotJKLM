@@ -43,33 +43,6 @@ You don't need to press anything the code runs automatically upon it changing to
 
 Change the 'z' to whatever your heart desires but remember quotation marks on either side!
 
-  <h1>Customization!</h1>
-  
-If you're not happy with how somethings working (for example the typing speed or the amount of mistakes) here is how to change them!
-  <h3>Typing speed:</h3>
-  
-To change the typing speed change the parameters on line 70 the program chooses a random number between the lower and upper number divides by 100 and thats is the pause between each letter so having a lower number of five and an upper of six means to bot will type with a delay of 0.06 seconds of 0.05 seconds between each letter! Make sure they are seperated by a comma and don't use decimals
-  
-  ![image](https://user-images.githubusercontent.com/38955706/127861299-1d59f4d2-c4bf-4f6e-a5a5-24b29e7d897d.png)
-  
-If you use a larger range for the parameters it looks more realistic as if you're stopping to think
-  
-  <h3>Amount of mistakes:</h3>
-Again if you're not happy with the amount of mistakes the bot is making change the parameters on line 53 for the variable "fail" this is the chance of a character "failing" the higher the range between the paramters the less mistakes. Think of it like a fraction. By default it is set to a 1 in 12 chance so every letter has a 1 in 12 chance to "fail". Change this to whatever you want, make sure they are whole numbers.
-  
-  ![image](https://user-images.githubusercontent.com/38955706/127861667-9dd3550f-a307-4ecb-8158-3471da284cd4.png)
-
-  <h3>Changing mistakes themselves:</h3>
-  
-If you're unhappy with the "fails" themselves you can customize how many random letters are produced and then deleted! For this one go to line 55 and change the parameters. I recommend keeping the lower parameter as 1 but set the top paramter as high as you want (the higher the less realistic)
- 
-  ![image](https://user-images.githubusercontent.com/38955706/127862010-abb4ef51-7923-45bc-82b1-3e63ca6e9fec.png)
-  <h3> How fast mistakes are written:</h3>
-  
-As well as this you can change how fast the random letters during a fail are typed this is found on line 59 and refer to changing the typing speed to find out what this means.
-  
-  ![image](https://user-images.githubusercontent.com/38955706/127862184-a798c682-ff15-463f-9284-833b565628b4.png)
-
   <h1>Bug fixing:</h1>
   
 If you run into an issue before the web page even opens make sure you have selenium installed, press Windows + R on your keyboard
