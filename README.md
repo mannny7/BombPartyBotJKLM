@@ -63,3 +63,14 @@ If selenium is not installed it should install it otherwise you'll get a message
   
   I haven't discovered any bugs with the bot actually playing in a game other than sometimes against StockFish in the first round it will get it wrong but it fixes itself and enters a correct word. If you find any bugs open an issue or DM me on discord Mannnny#5377 and I will work on fixing them. If you have any suggestions or improvements for the bot again just DM me or open an issue.
 
+<h1> Using custom words lists: </h1>
+
+Put the words list in the same folder as the code:
+
+![image](https://user-images.githubusercontent.com/38955706/131714810-e900ab37-c04d-4f01-98c7-86b48029cc5e.png)
+
+And change the "/web2" to the file name, as you can see I used the file "/at_least_20_characters.txt" Don't forget the file extension e.g .txt
+
+<h2>READ</h2>
+
+If you're using a custom words list you have to change all the words to capitals use a website like ```https://convertcase.net/``` and convert it ALL to upper case otherwise it wont work
