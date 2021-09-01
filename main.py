@@ -25,6 +25,7 @@ Want to use your own Words List?
 Change line 20 from "\web2" to the file name
 Dont forget the file extension.
 For example "\Words.txt"
+ALSO ----> Change all the words to capitals for some reason other wise it doesn't work just use a website for it <----
 
 MAKE SURE THE FILE IS IN THE SAME FOLDER AS THE CODE
 '''
