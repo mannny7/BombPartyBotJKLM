@@ -6,34 +6,22 @@ import random
 import keyboard
 import string
 
-''' 
-Party Bomb Bot by Msesjrl (Mannnny)
-Discord: Mannnny#5377
-Read the readme on GitHub it will fix most issues
-YouTube video for installing: https://youtu.be/IT-0yb12xG0
-'''
+# Party Bomb Bot by Msesjrl (Mannnny)
+# Discord: Mannnny#5377
+# Read the readme on GitHub it will fix most issues
 
 driver = webdriver.Chrome("./chromedriver")
 driver.get("https://www.jklm.fun")
 
 CURR_DIR = os.path.dirname(os.path.realpath(__file__))
-path = CURR_DIR + "\web2"
+path = CURR_DIR + "/web2"
 
-'''
-Want to use your own Words List?
-
-Change line 20 from "\web2" to the file name
-Dont forget the file extension.
-For example "\Words.txt"
-ALSO ----> Change all the words to capitals for some reason other wise it doesn't work just use a website for it <----
-
-MAKE SURE THE FILE IS IN THE SAME FOLDER AS THE CODE
-'''
+# Check the GitHub ReadMe to see how to use custom Words Lists
 
 wordlistone = open(path)
 stringone = wordlistone.read()
 
-while not keyboard.is_pressed('z'): # Press 'z' to stop program
+while True:
     while True:
         try:
             driver.switch_to.frame(
@@ -61,15 +49,15 @@ while not keyboard.is_pressed('z'): # Press 'z' to stop program
 
             matchingWord = arrayOfWords[random.randint(0, len(arrayOfWords))]
             answerBox.click()
-
+            time.sleep(random.randint(15, 65) / 100)
             for character in matchingWord:
-                fail = random.randint(1, 12)
+                fail = random.randint(1, 30)
                 if fail == 2: # Spelling mistakes algorithm
                     loops = random.randint(1, 3)
 
                     for i in range(loops):
                         answerBox.send_keys(random.choice(string.ascii_uppercase))
-                        time.sleep(random.randint(3, 8) / 100)
+                        time.sleep(random.randint(2, 5) / 100)
 
                     time.sleep(0.1)
 
