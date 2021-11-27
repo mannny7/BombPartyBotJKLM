@@ -1,16 +1,11 @@
 # BombPartyBotJKLM
-<h3>Discord Mannnny#5377
+<h3>Discord Mannnny#2061</h3>
 
   
 A simple bot for Bomb Party on https://www.jklm.fun
 
-YouTube video for installing: https://www.youtube.com/watch?v=KxmgQc2nc4E</h3>
-
-Features include:
-
-1. Auto join games
-2. Auto answer prompts
-3. Human-like spelling mistakes
-4. Custom word lists
-
-**Sorry if some code is poorly written I'm quite new to Python and only 13 :)**
+To install:
+  
+Install the files and extract the zip, run the "check.bat" file this will install all the python libraries needed. If you get any errors at this stage make sure you have python installed (https://www.python.org/downloads/) then run the "run.bat".
+  
+I recommend you tweak the settings in the settings tab, if you want to look human-like but good I recommend a 1.2 second starting time, 0.11-0.13 typing speed and a 8% fail chance
