@@ -10,4 +10,4 @@ Install the files and extract the zip, run the "check.bat" file this will instal
   
 I recommend you tweak the settings in the settings tab, if you want to look human-like but good I recommend a 1.2 second starting time, 0.11-0.13 typing speed and a 8% fail chance
 
-<h4> If you need more support open a ticket in the discord: https://discord.gg/Qg3ufxAzjV</h4>
+<h2> If you need more support open a ticket in the discord: https://discord.gg/Qg3ufxAzjV </h2>
