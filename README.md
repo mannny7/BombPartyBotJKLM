@@ -23,4 +23,4 @@ If you getting any errors here are the main things to try:
 The ChromeDriver version supplied with the code may be newer/older than your chrome version. Go to the 3 dots in the top right, go to help, about google chrome and look at your version number. Then go to https://chromedriver.chromium.org/downloads and find your version (if the specific version isn't on there go for the closest one)
 
 
-Any other problems join the discord server https://discord.gg/GAhCGUWjv5
+Any other problems add me on Discord Manny.#0001
