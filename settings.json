@@ -1,0 +1,12 @@
+{
+	"debug": false,
+	"delay_before_joining": 2.0,
+	"print_all_matches": false,
+	"delay_between_typing": 0.1,
+	"print_word_sent": true,
+	"automatically_send_words": true,
+	"mode": 1,
+	
+	"_comment": "there are three modes, (0 = random word from matches), (1 = shortest word from matches [looks the most human-like]), (2 = longest word [very halala])"
+
+}
