@@ -1,7 +1,4 @@
 # BombPartyBotJKLM
-  
-My Website: https://www.mannydev.com  
-Discord Support Server: https://discord.gg/GAhCGUWjv5
 
 A simple bot for Bomb Party on https://www.jklm.fun
 
