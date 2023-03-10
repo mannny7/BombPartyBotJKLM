@@ -13,7 +13,7 @@ Do this by getting the path of the folder
 
 ![image](https://user-images.githubusercontent.com/38955706/224391360-fe203372-36c3-4a3f-b36c-949b40d44d4a.png)
 
-Click on the bar at the top of the file explorer and type `cd [the thing you copied` into the command prompt window
+Click on the bar at the top of the file explorer and type `cd [the thing you copied]` into the command prompt window
 
 ![image](https://user-images.githubusercontent.com/38955706/224391464-ad6cdcef-553d-4b37-95a9-f84e2c8c68fa.png)
 
