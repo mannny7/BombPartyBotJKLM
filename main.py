@@ -65,20 +65,6 @@ def log(string, color="green"):
     final = ">>> " + str(string)
     print(colored(final, color))
 
-
-# More cool ascii art
-log(""" 
-    _____  __    __  __        __       __        _______    ______   ________ 
-   /     |/  |  /  |/  |      /  \     /  |      /       \  /      \ /        |
-   $$$$$ |$$ | /$$/ $$ |      $$  \   /$$ |      $$$$$$$  |/$$$$$$  |$$$$$$$$/ 
-      $$ |$$ |/$$/  $$ |      $$$  \ /$$$ |      $$ |__$$ |$$ |  $$ |   $$ |   
- __   $$ |$$  $$<   $$ |      $$$$  /$$$$ |      $$    $$< $$ |  $$ |   $$ |   
-/  |  $$ |$$$$$  \  $$ |      $$ $$ $$/$$ |      $$$$$$$  |$$ |  $$ |   $$ |   
-$$ \__$$ |$$ |$$  \ $$ |_____ $$ |$$$/ $$ |      $$ |__$$ |$$ \__$$ |   $$ |   
-$$    $$/ $$ | $$  |$$       |$$ | $/  $$ |      $$    $$/ $$    $$/    $$ |   
- $$$$$$/  $$/   $$/ $$$$$$$$/ $$/      $$/       $$$$$$$/   $$$$$$/     $$/    
-                                                                                                   """)
-
 # Info message
 log("Welcome to Manny's JKLM bot \n    Change settings by opening the JSON file located in the same folder as the "
     "script \n    Discord: Manny.#0001")
